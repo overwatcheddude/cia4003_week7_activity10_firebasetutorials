@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "59112035110",
+    "firebase_url": "https://cia4003week7activity10firebase.firebaseio.com",
+    "project_id": "cia4003week7activity10firebase",
+    "storage_bucket": "cia4003week7activity10firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59112035110:android:0d2155e52743d350",
+        "android_client_info": {
+          "package_name": "com.example.dudetime.cia4003_week7_activity10_firebasetutorials"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59112035110-4tqee8fu7cgo3p5h33mvvgb180veeg4h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dudetime.cia4003_week7_activity10_firebasetutorials",
+            "certificate_hash": "71cfb9f4774ca18e3563d60d7da79a167fbac771"
+          }
+        },
+        {
+          "client_id": "59112035110-jsaapfnqlf3tfi7alms15qre7lvqqsnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUbTB8bz3V34Q-Ee3d6rvo10VIEdVycnY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59112035110-jsaapfnqlf3tfi7alms15qre7lvqqsnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
